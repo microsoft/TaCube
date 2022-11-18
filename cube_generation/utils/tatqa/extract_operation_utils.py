@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 import numpy as np
 
 def _is_average(num_facts:list, answer):
