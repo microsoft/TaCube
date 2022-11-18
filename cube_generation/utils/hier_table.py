@@ -1,3 +1,6 @@
+# Copyright (c) Microsoft Corporation.
+# Licensed under the MIT license.
+
 def extract_merge_regions(table):
         merged_regions = []
         merged_regions_kv = {}
